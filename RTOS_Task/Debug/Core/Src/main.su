@@ -1,0 +1,11 @@
+../Core/Src/main.c:122:5:main	8	static
+../Core/Src/main.c:222:6:SystemClock_Config	72	static
+../Core/Src/main.c:262:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:295:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:334:6:HAL_GPIO_EXTI_Callback	24	static,ignoring_inline_asm
+../Core/Src/main.c:365:6:StartCalcSwitch1	40	static
+../Core/Src/main.c:401:6:StartIncreaseVar	32	static
+../Core/Src/main.c:439:6:StartDecreaseVar	32	static
+../Core/Src/main.c:477:6:StartUART	80	static
+../Core/Src/main.c:522:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:540:6:Error_Handler	4	static,ignoring_inline_asm
