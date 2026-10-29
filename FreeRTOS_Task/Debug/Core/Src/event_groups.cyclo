@@ -1,0 +1,12 @@
+../Core/Src/event_groups.c:145:28:xEventGroupCreate	2
+../Core/Src/event_groups.c:185:17:xEventGroupSync	7
+../Core/Src/event_groups.c:312:17:xEventGroupWaitBits	11
+../Core/Src/event_groups.c:472:17:xEventGroupClearBits	1
+../Core/Src/event_groups.c:506:20:xEventGroupClearBitsFromISR	1
+../Core/Src/event_groups.c:524:17:xEventGroupGetBitsFromISR	1
+../Core/Src/event_groups.c:547:17:xEventGroupSetBits	7
+../Core/Src/event_groups.c:650:10:vEventGroupDelete	2
+../Core/Src/event_groups.c:748:10:vEventGroupSetBitsCallback	1
+../Core/Src/event_groups.c:764:10:vEventGroupClearBitsCallback	1
+../Core/Src/event_groups.c:778:23:prvTestWaitCondition	4
+../Core/Src/event_groups.c:817:20:xEventGroupSetBitsFromISR	1
