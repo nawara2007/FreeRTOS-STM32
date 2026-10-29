@@ -1,9 +1,0 @@
-../Core/Src/main.c:51:5:_write	1
-../Core/Src/main.c:78:16:Button_Pressed	5
-../Core/Src/main.c:100:13:SendPressed	2
-../Core/Src/main.c:114:5:main	2
-../Core/Src/main.c:171:6:SystemClock_Config	3
-../Core/Src/main.c:211:13:MX_CAN_Init	2
-../Core/Src/main.c:248:13:MX_USART1_UART_Init	2
-../Core/Src/main.c:281:13:MX_GPIO_Init	1
-../Core/Src/main.c:323:6:Error_Handler	1
